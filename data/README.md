@@ -18,3 +18,5 @@ Explanation of keys in the files:
     'v1': 1.0/'INF_INVV' 
     'v2': 1.0/'INF_INVV'
 ```
+
+The right side values are further explained in the Serpent2 documentation: https://serpent.vtt.fi/mediawiki/index.php?title=Output_parameters
