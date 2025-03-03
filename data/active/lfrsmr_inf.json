@@ -1,6 +1,5 @@
 {
-    "description": "LFRSMR, lead-cooled design from Mai. Hexagonal core, radius is considered 3.5*19.2473, the assembly pitch, 
-             but considering that the core is tiny, this is not a super good approximation.",
+    "description": "LFRSMR, lead-cooled design from Mai. Hexagonal core, radius is considered 3.5*19.2473, the assembly pitch, but considering that the core is tiny, this is not a super good approximation.",
     "H": 280.0,
     "R": 67.36555,
     "D1": 1.91443,
