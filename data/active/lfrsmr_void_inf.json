@@ -1,7 +1,7 @@
 {
     "description": "LFRSMR, core surrounded by void instead of reflector, lead-cooled design from Mai. Hexagonal core, radius is considered 3.5*19.2473, the assembly pitch, but considering that the core is tiny, this is not a super good approximation.",
     "H": 120.0,
-    "R": 67.36555,
+    "R": 73.74,
     "D1": 2.08596,
     "D2": 1.19035,
     "nuSig1": 0.024141,
