@@ -1,5 +1,6 @@
 {
     "description": "Allegro, gas cooled demonstrator. Hexagonal core, radius is approximated as 5.5*11.09095301, the pitch.",
+    "Type": 2
     "H": 86.78999999999999,
     "R": 61.000241555,
     "D1": 3.81018,
