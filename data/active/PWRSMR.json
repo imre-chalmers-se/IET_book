@@ -1,5 +1,6 @@
 {
     "description": "PWR SMR is a 200 MWt PWR core with a thermal spectrum, which is constructed from fuel elements of a typical PWR (AP1000), but with a shortened core height of 220 cm",
+    "Type": 4,
     "H": 220.0,
     "R": 73.5,
     "D1": 1.43756,
