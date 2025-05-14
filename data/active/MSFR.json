@@ -1,6 +1,6 @@
 {
     "description": "MSFR, Molten Salt Fast Reactor. I used the input from the ARFC github page, but essentially this should be the same as the SAMOFAR input from Cambridge, although the sizes does not seem to be the same.",
-    "Type": 5,
+    "Type": "MSFR",
     "H": 188.0,
     "R": 112.75,
     "D1": 2.16699,
