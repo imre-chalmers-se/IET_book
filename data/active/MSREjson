@@ -1,5 +1,6 @@
 {
     "description": "MSRE, Molten Salt Reactor experiment. A classic lowpower core. Geometry comes from Github, usable after using reference: D. Shen, G. Ilas, J. J. Powers, and M. Fratoni, “Reactor physics benchmark of the first criticality in the Molten Salt Reactor Experiment,” Nuclear Science and Engineering, 2021.",
+    "TYPE": "MSRE",
     "H": 124.87100000000001,
     "R": 70.287,
     "D1": 1.01584,
