@@ -1,6 +1,6 @@
 {
     "description": "MSDR, Molten Salt Demonstrator Reactor. This geometry comes from both Mai, but is also available on github without license. The radius is approximated as 10.5*29.0322, blanket region is excluded, also from the homogenization the control locations are excluded.",
-    "Type": 3,
+    "Type": "MSDR",
     "H": 640.08,
     "R": 304.8381,
     "D1": 1.061,
