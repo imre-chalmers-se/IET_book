@@ -1,6 +1,6 @@
 {
     "description": "RR SMR-like from Cambridge. Core is general cross, so radius is just an approximation.\nConstants generated only in the active core, hopefully correctly, but it needed some magic",
-    "Type": 4,
+    "Type": "LWRSMR",
     "H": 280.0,
     "R": 139.77366,
     "D1": 1.52824,
