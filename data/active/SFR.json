@@ -1,5 +1,5 @@
 {
-    "description": "SFR based on the OECD NEA benchmark, this is the 3600MWth oxide core, the radius is roughly 12*assembly pitch, and the active core is defined within a cylinder, which does include some reflector parts. the control assemblies are omitted (https://www.oecd-nea.org/upload/docs/application/pdf/2020-01/nsc-r2015-9.pdf)",
+    "description": "SFR based on the OECD NEA benchmark, this is the 3600MWth oxide core, the radius is roughly 12*assembly pitch, and the active core is defined within a cylinder, which does include some reflector parts. The control assemblies are omitted.",
     "Type": "SFR",
     "H": 100.55,
     "R": 256.47675,
